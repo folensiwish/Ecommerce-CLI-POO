@@ -1,0 +1,6 @@
+Orden de compra - 2026-01-14 03:07:19
+Cliente: Andres
+Producto: Audifonos JBL 204 | Cantidad: 1 | Precio: $35000 | Subtotal: $35000
+Producto: Parlante mlab xt | Cantidad: 1 | Precio: $73000 | Subtotal: $73000
+Producto: Pantalla HP m24 | Cantidad: 1 | Precio: $125000 | Subtotal: $125000
+Total: $233000
